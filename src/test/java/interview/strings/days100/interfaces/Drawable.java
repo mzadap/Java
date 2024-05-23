@@ -1,6 +1,6 @@
 package interview.strings.days100.interfaces;
 
-public interface Drawable {
+abstract interface Drawable {
     abstract void draw();
     void colors();
     //From java 8 -> we can have static method with method body

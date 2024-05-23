@@ -5,4 +5,9 @@ public class Honda extends Bike{
     void run() {
         System.out.println("Good work");
     }
+
+    Honda() {
+        super();
+        System.out.println("this is honda class");
+    }
 }

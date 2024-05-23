@@ -17,4 +17,11 @@ public class Methodss {
     void display() {
         System.out.println("hello this " + name);
     }
+
+    public static void main(String[] args) {
+        name = "pooja";
+        System.out.println(name);
+        Methodss methodss = new Methodss();
+        methodss.display();
+    }
 }

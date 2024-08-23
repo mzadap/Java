@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: interview.strings.NotionInterviewQuestions.Vowel_NotionTests
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s -- in interview.strings.NotionInterviewQuestions.Vowel_NotionTests
